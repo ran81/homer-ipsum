@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/homer-ipsum/precache-manifest.9152a0e7d4bf9583987db7ef521fc683.js"
+  "/homer-ipsum/precache-manifest.c83cbc33dc07257c5b3da8f286ff4ba9.js"
 );
 
 workbox.clientsClaim();
