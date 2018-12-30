@@ -5,7 +5,7 @@ body {
   font-size: 1.2em;
 }
 #root {
-  background-image: url(/static/media/bg.5bad8ce4.jpg);
+  background-image: url('./bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
