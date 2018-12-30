@@ -2,6 +2,7 @@
   "name": "homer-ipsum",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ran81.github.io/homer-ipsum",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "normalize.css": "^8.0.1",
