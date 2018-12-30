@@ -82,6 +82,9 @@ class App extends Component {
         <button disabled={!this.state.quote} className="btn btn--wide btn--copy" onClick={this.copyToClipboard}>
           {this.state.btnText}
         </button>
+        <footer>
+      All rights reserved to the awesome people behind the show &copy;
+    </footer>
       </div>
     );
   }
